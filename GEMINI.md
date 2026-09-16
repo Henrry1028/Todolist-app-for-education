@@ -168,6 +168,7 @@ sequenceDiagram
 - [x] 프로젝트 미사용 레거시 파일(`components/GamificationMetrics.tsx`) 및 불필요한 파일 정리 완료
 - [x] GEMINI.md 시스템 컴포넌트 아키텍처 및 데이터 등록 Mermaid 플로우차트 수록
 - [x] 사용자 친화적 종합 안내 매뉴얼 문서(`README.md`) 생성 완료
+- [x] GitHub 원격 저장소(`https://github.com/Henrry1028/Todolist-app-for-education.git`) `main` 브랜치 푸시 완료
 - [ ] 사용자 추가 피드백 수렴 및 지속적 고도화
 
 ## 4. 주요 결정 사항 및 이슈 (Decisions & Issues)
